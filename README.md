@@ -5,10 +5,10 @@
 
 2：根据你的网络情况双击运行【开始优选v4.bat】或【开始优选v6.bat】   
 注意路由器性能较差可能导致运行过程中路由器死机，尤其IPV6脚本！
-
-3：稍等一会，脚本会自动根据你的网络情况找出最优的赛博活佛节点，然后按下回车，结果将自动上传至本仓库的【[cloudflare_ips.txt](https://github.com/CirnoSalt/TexasCloud-CFResult/cloudflare_ips.txt)】文件中。
 <img width="1644" height="682" alt="image" src="https://github.com/user-attachments/assets/987b383c-58ed-40fa-9d9d-b235732ab90d" />
 <img width="1388" height="468" alt="image" src="https://github.com/user-attachments/assets/4c93fde1-b305-4c3b-9009-ebc0ffe73458" />
+
+3：稍等一会，脚本会自动根据你的网络情况找出最优的赛博活佛节点，按下回车，结果将自动上传至本仓库的【[cloudflare_ips.txt](https://github.com/CirnoSalt/TexasCloud-CFResult/blob/main/cloudflare_ips.txt)】文件中。
 
 4：打开[这个](https://bp.sub.cmliussss.net/)链接，按照下面的指示填写：
 ```
